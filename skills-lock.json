@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "weather": {
+      "source": "devlucky844-debug/weather-skill",
+      "sourceType": "github",
+      "computedHash": "ec82539b5fc6792e892afa6834714246863cd7cee7babe6d27aab41a39d9eaf5"
+    }
+  }
+}
